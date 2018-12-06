@@ -27,6 +27,7 @@ public class Word{
      */
     public static void scrambleOrRemove(List<String> wordList){
         /* part (b) */
+        this is for test
 
     }
 
